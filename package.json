@@ -1,0 +1,26 @@
+{
+  "name": "WordGuessCLI",
+  "version": "1.0.0",
+  "description": "A Word Guess command-line game using constructor functions.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "color": "^3.1.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBraden3288/WordGuessCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBraden3288/WordGuessCLI/issues"
+  },
+  "homepage": "https://github.com/RBraden3288/WordGuessCLI#readme"
+}
